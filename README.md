@@ -75,7 +75,7 @@ Tracker Screen (If added in the future)
 => Specific input screens for adding food and workout details (when trying to input details)
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section] 
+![](https://hackmd.io/_uploads/BJR9C8uG6.jpg)
 
 ### [BONUS] Digital Wireframes & Mockups
 ### [BONUS] Interactive Prototype
